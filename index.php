@@ -1,3 +1,3 @@
 <?php
-echo "Dinelax App Running Successfully 🚀";
+include 'index.html';
 ?>
